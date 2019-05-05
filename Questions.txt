@@ -1,0 +1,14 @@
+- Comment avez vous affiché les étoiles de difficulté ?
+	J'ai utilisé des icons de Font Awesome, relié par un Content Delivery Network.
+
+- Comment avez vous rendu la page responsive ?
+	J'ai utilisé le framework Bootstrap qui est gratuit et basé sur CSS et JavaScript. 
+
+- Quelle était la chose la plus facile à faire ?
+	Intégrer l'image en bannière.
+
+- Quelle était la chose la plus difficile à faire ?
+	Centrer le texte sous les icônes rondes. J'ai finalement utilisé un width qui crée un alignement grace aux colonnes Bootstrap.
+
+- Combien de temps cela vous a pris ?
+	4 heures afin de le peaufiner au maximum !

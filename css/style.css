@@ -1,0 +1,22 @@
+:root{
+  --circles: 75px; 
+}
+
+.image {
+  margin-top: 10px;
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+
+.overview-circles {
+  height: var(--circles);
+  width: var(--circles);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.overview-text{
+  width: 75px
+}
